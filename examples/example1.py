@@ -3,9 +3,9 @@
 # Copyright 2011 MERS Technologies.
 #
 
-from subuno import SUBUNOAPI
+from subuno import subuno
 
-result = SUBUNOAPI().run(
+result = subuno.run(
 	apikey = "2g4g747g843",
 	data = {
 		"t_id"            : "7d3n89wn" ,
