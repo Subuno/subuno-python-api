@@ -10,12 +10,14 @@ setup(name='subuno',
       download_url="http://www.subuno.com/download/python/subuno-1.0.tar.gz",
       classifiers=[
           "Programming Language :: Python",
-          "Programming Language :: Python :: 2",
-          "Development Status :: 4 - Beta",
+          "Programming Language :: Python :: 2.6",
+          "Programming Language :: Python :: 2.7",
+          "Development Status :: 5 - Production/Stable",
           "Environment :: Other Environment",
           "Intended Audience :: Developers",
           "Operating System :: OS Independent",
           "Topic :: Software Development :: Libraries :: Python Modules",
+          "Topic :: Office/Business :: Financial :: Point-Of-Sale",
           ],
 
       long_description="""\
