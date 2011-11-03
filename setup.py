@@ -17,6 +17,7 @@ setup(name='subuno',
           "Intended Audience :: Developers",
           "Operating System :: OS Independent",
           "Topic :: Software Development :: Libraries :: Python Modules",
+          "Topic :: Office/Business",
           "Topic :: Office/Business :: Financial :: Point-Of-Sale",
           ],
 
