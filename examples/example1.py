@@ -37,7 +37,7 @@ result = subuno.run(
 		"custom2"         : "second custom value",
 		"custom3"         : "third custom value",
 		"issuer_phone"    : "18667750556",
-		"source"          : "affiliate_code_here",
+		"source"          : "affiliate_code_here or leave blank",
 	},
 )
 
